@@ -1,0 +1,37 @@
+﻿빌드 시작: 2016-02-24 오후 4:35:17
+     1>2 노드의 "E:\ScanLinePolygon_v2\ScanLinePolygon\ScanLinePolygon.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp TUYENPLE_Arc.cpp TUYENPLE_DrawObj.cpp TUYENPLE_Line.cpp TUYENPLE_PointD.cpp TUYENPLE_Polygon.cpp TUYENPLE_RectD.cpp Arc.cpp Boxes.cpp bspline.cpp Contour.cpp Hierarchy.cpp Line2Line.cpp Point2Line.cpp PointInclusion.cpp Polygon.cpp QuickSort.cpp REALLOC.cpp
+         REALLOC.cpp
+         QuickSort.cpp
+         Polygon.cpp
+         PointInclusion.cpp
+         Point2Line.cpp
+         Line2Line.cpp
+         Hierarchy.cpp
+         Contour.cpp
+         bspline.cpp
+         Boxes.cpp
+         Arc.cpp
+         TUYENPLE_RectD.cpp
+         TUYENPLE_Polygon.cpp
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(94): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(121): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(150): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(197): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(215): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(228): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(241): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>e:\scanlinepolygon_v2\scanlinepolygon\tuyenple_polygon.cpp(324): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         TUYENPLE_PointD.cpp
+         TUYENPLE_Line.cpp
+         TUYENPLE_DrawObj.cpp
+         TUYENPLE_Arc.cpp
+         main.cpp
+     1>e:\scanlinepolygon_v2\scanlinepolygon\main.cpp(12): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+         코드를 생성하고 있습니다...
+     1>"E:\ScanLinePolygon_v2\ScanLinePolygon\ScanLinePolygon.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:09.67
